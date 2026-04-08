@@ -15,7 +15,7 @@ layout: default
 |太平洋保险|cpic|<img src="./icc/China_Pacific_Insurance_Company.svg" alt="cpic" style="height:1.5rem; width: auto">|[↗](https://www.cpic.com.cn/aboutUs/zgtbgk/jtjj/)[↘](https://en.wikipedia.org/wiki/China_Pacific_Insurance_Company)|
 |B站|bilibili|<img src="./icb/Bilibili_logo.svg" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.bilibili.com/blackboard/aboutUs.html)[↘](https://en.wikipedia.org/wiki/Bilibili)|
 |小米|xiaomi|<img src="./icx/Xiaomi_logo_(2021-).svg" alt="xiaomi" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.mi.com/about)[↘](https://en.wikipedia.org/wiki/Xiaomi)|
-|华润微电子|crmicro|<img src="./icc/China_Resources_Microelectronics.png" alt="xiaomi" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.crmicro.com/companyProfile/index.html)[↘](https://en.wikipedia.org/wiki/China_Resources_Microelectronics)|
+|华润|crc|<img src="./icc/China_Resources.png" alt="xiaomi" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.crc.com.cn/about/overview/Introduction/index.html)[↘](https://en.wikipedia.org/wiki/China_Resources)|
 
 
 <!--  -->
