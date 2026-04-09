@@ -12,6 +12,7 @@ layout: default
 
 |中文|英文|logo|link|
 |---|---|---|---|
+|博世|bosch|<img src="./icb/Bosch-logo.svg" alt="bosch" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.bosch.com.cn/our-company/bosch-in-china/)[↘](https://en.wikipedia.org/wiki/Bosch_(company))|
 |工行|icbc|<img src="./ici/Industrial_and_Commercial_Bank_of_China_logo.svg" alt="icbc" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.icbc-ltd.com/column/1438058326469787926.html)[↘](https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China)|
 |华润|crc|<img src="./icc/China_Resources.png" alt="crc" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.crc.com.cn/about/overview/Introduction/index.html)[↘](https://en.wikipedia.org/wiki/China_Resources)|
 |美团|meituan|<img src="./icm/Meituan_English_Logo_330_82.png" alt="meituan" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.meituan.com/)[↘](https://en.wikipedia.org/wiki/Meituan)|
