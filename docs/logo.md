@@ -25,7 +25,8 @@ layout: default
 - 拼多多，pdd，<img src="./icp/Pinduoduo_logo.svg" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.pinduoduo.com/home/about/)[↘](https://en.wikipedia.org/wiki/Pinduoduo)；<img src="./icp/pddhr.png" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，`260410`
 <!--  -->
 - 科大讯飞，iflytek，<img src="./logo/i/IFlytek_logo.png" alt="iflytek" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.iflytek.com/about.html)[↘](https://en.wikipedia.org/wiki/IFlytek)，`260411`
-
+<!--  -->
+- 深信服，sangfor，<img src="./logo/s/sangfor.png" alt="sangfor" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.sangfor.com.cn/about-us/company-profile)[↘](https://en.wikipedia.org/wiki/Sangfor_Technologies)，`260412`
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
