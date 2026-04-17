@@ -4,7 +4,7 @@ layout: default
 
 # 组织logo
 
-`更新-260410` \| `发布-260407`
+`更新-260417` \| `发布-260407`
 
 <!-- <a href="./irobots.assets/irobot5.jpg"><img src="./irobots.assets/irobot5.jpg" alt="overall" style="width:50%"></a> -->
 <!-- |中文|英文|logo|os|wk|
@@ -27,6 +27,8 @@ layout: default
 - 科大讯飞，iflytek，<img src="./logo/i/IFlytek_logo.png" alt="iflytek" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.iflytek.com/about.html)[↘](https://en.wikipedia.org/wiki/IFlytek)，`260411`
 <!--  -->
 - 深信服，sangfor，<img src="./logo/s/sangfor.png" alt="sangfor" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.sangfor.com.cn/about-us/company-profile)[↘](https://en.wikipedia.org/wiki/Sangfor_Technologies)，`260412`
+<!--  -->
+- 吉利，geely，<img src="./logo/g/Geely_Logo_2022.svg" alt="geely" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://zgh.com/overview/)[↘](https://en.wikipedia.org/wiki/Geely)，`260417`
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
