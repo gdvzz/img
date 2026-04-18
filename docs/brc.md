@@ -8,6 +8,8 @@ layout: default
 
 ✳️ 包括如下信息：`中文名` \| `英文名` \| `图片链接` \| `原始图片链接（如有）` \| `收录日期`
  
-- 科大讯飞，iflyteck，<img src="./rcb/y26/iflytek.png" alt="iflyteck" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://portal-oss.zhiye.com/100845/image/104e75f7-1f3b-44ef-8806-81fc43fbc76a.png)，`0411`
+- 科大讯飞，iflyteck，<img src="./brc/y26/iflytek.png" alt="iflyteck" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://portal-oss.zhiye.com/100845/image/104e75f7-1f3b-44ef-8806-81fc43fbc76a.png)，`0411`
 <!--  -->
-- 招商银行，cmbchina，<img src="./rcb/y26/cmbchina.jpg" alt="iflyteck" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://s3gw.cmbimg.com/sc/0L-6bNjyfBeSg8a70aitOJYv1Hg=/SH::FjM7jyRrAJ7vq2qiUrj2ABFn)，`0418`
+- 招商银行，cmbchina，<img src="./brc/y26/cmbchina.jpg" alt="cmbchina" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://s3gw.cmbimg.com/sc/0L-6bNjyfBeSg8a70aitOJYv1Hg=/SH::FjM7jyRrAJ7vq2qiUrj2ABFn)，`0418`
+<!--  -->
+- 华润燃气，crcgas，<img src="./brc/y26/crcgas.jpg" alt="crcgas" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://xyz.51job.com/Static/hrrq/banner.jpg)，`0419` <!-- banner在点击投递后出现的界面中  -->
