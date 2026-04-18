@@ -9,7 +9,7 @@ layout: default
 本站存放组织的logo等图片。主要有：
 
 - 组织logo：[链接↗](logo.md)
-- 校招banner：[链接↗](./rcb.md)
+- 校招banner：[链接↗](./brc.md)
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
