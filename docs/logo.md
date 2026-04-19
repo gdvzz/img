@@ -34,6 +34,7 @@ layout: default
 <!--  -->
 - 招商局，cmhk，<img src="./logo/c/China_Merchants_Group.svg" alt="cmhk" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.cmhk.com/main/gyzsj/jtjj)[↘](https://en.wikipedia.org/wiki/China_Merchants_Group)，`260418`
 - 华润燃气，crcgas，<img src="./logo/c/crcgas.png" alt="crcgas" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.crcgas.com/gsjj/index.html)[↘](https://en.wikipedia.org/wiki/China_Resources_Gas)，`260419`
+- 新东方，xdf，<img src="./logo/x/xdf.svg" alt="xdf" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.neworiental.org/)[↘](https://en.wikipedia.org/wiki/New_Oriental)，[logo备份↗](./logo/n/New_Oriental.svg)，`260419`
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
