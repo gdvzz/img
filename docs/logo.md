@@ -4,7 +4,7 @@ layout: default
 
 # 组织logo
 
-`更新-260419` \| `发布-260407`
+`更新-260430` \| `发布-260407`
 
 <!-- <a href="./irobots.assets/irobot5.jpg"><img src="./irobots.assets/irobot5.jpg" alt="overall" style="width:50%"></a> -->
 <!-- |中文|英文|logo|os|wk|
@@ -37,6 +37,7 @@ layout: default
 - 新东方，xdf，<img src="./logo/x/xdf.svg" alt="xdf" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.neworiental.org/)[↘](https://en.wikipedia.org/wiki/New_Oriental)，[logo备份↗](./logo/n/New_Oriental.svg)，`260419`
 - 亚信，asiainfo，<img src="./logo/a/asiainfo-logo.svg" alt="asiainfo" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.asiainfo.com/zh_cn/about.html)[no_wiki↘]，`260419`
 - 格力，gree，<img src="./logo/g/Gree_electric_appliances_logo.svg" alt="gree" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://gree.com/single/32)[↘](https://en.wikipedia.org/wiki/Gree_Electric)，`260421`
+- 国家电网，sgcc，<img src="./logo/s/State_Grid_Corporation_of_China_logo.svg" alt="sgcc" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsjs/index.shtml)[↘](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China)，`260430`
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
