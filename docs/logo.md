@@ -34,6 +34,7 @@ layout: default
 - 招商局，cmhk，<img src="./logo/c/China_Merchants_Group.svg" alt="cmhk" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.cmhk.com/main/gyzsj/jtjj)[↘](https://en.wikipedia.org/wiki/China_Merchants_Group)，`260418`
 - 招商银行，cmbchina，<img src="./logo/c/China_Merchants_Bank_logo.svg" alt="cmbchina" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://cmbchina.com/cmbinfo/aboutcmb/)[↘](https://en.wikipedia.org/wiki/China_Merchants_Bank)，`260418`
 - 中国电信，chinatelecom，<img src="./logo/c/China_Telecom_Logo.svg" alt="sgcc" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[about↗](https://www.chinatelecom.com.cn/ct/aboutcorp/jtgk/)，[wiki↗](https://en.wikipedia.org/wiki/China_Telecommunications_Corporation)，`260501`
+- 中电信AI公司&研究院，teleai，<img src="./logo/t/teleai-logo.svg" alt="teleai" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[about↗](https://www.teleai.com.cn/Introduction)，[wiki-na]，`260502`
 
 
 <!--  -->
