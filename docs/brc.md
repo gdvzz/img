@@ -4,7 +4,7 @@ layout: default
 
 # 校招banner
 
-`更新-260419` \| `发布-260411`
+`更新-260501` \| `发布-260411`
 
 ✳️ 包括如下信息：`中文名` \| `英文名` \| `图片链接` \| `原始图片链接（如有）` \| `收录日期`
  
@@ -16,3 +16,4 @@ layout: default
 - 新东方，xdf，<img src="./brc/y26/xdf.jpg" alt="xdf" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://portal-oss.zhiye.com/100138/image/974af4ea-5f6f-4578-9995-3a3dfda88d34.png)`招聘官网顶部轮播banner之一`，`0419` 
 - 亚信，asiainfo，<img src="./brc/y26/asiainfo.png" alt="asiainfo" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://campus.51job.com/asiainfo/imgs/kv.png)`招聘官网顶部banner`，`0419` 
 - 格力，gree，<img src="./brc/y26/gree.jpg" alt="gree" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://zhaopin.greeyun.com/img/home-bg.8beeb76f.jpg)`招聘官网顶部banner`，`0421` 
+- 中国电信，chinatelecom，<img src="./brc/y26/chinatelecom.jpg" alt="chinatelecom" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://job.chinatelecom.com.cn/wt/jsp/web/templets/custom/img/banner.88cb6939.jpg)`招聘官网顶部banner`，`0501` 

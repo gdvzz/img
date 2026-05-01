@@ -22,22 +22,19 @@ layout: default
 |B站|bilibili|<img src="./icb/Bilibili_logo.svg" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">|[↗](https://www.bilibili.com/blackboard/aboutUs.html)[↘](https://en.wikipedia.org/wiki/Bilibili)|
 
 
-- 拼多多，pdd，<img src="./icp/Pinduoduo_logo.svg" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.pinduoduo.com/home/about/)[↘](https://en.wikipedia.org/wiki/Pinduoduo)；<img src="./icp/pddhr.png" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，`260410`
-<!--  -->
-- 科大讯飞，iflytek，<img src="./logo/i/IFlytek_logo.png" alt="iflytek" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.iflytek.com/about.html)[↘](https://en.wikipedia.org/wiki/IFlytek)，`260411`
-<!--  -->
-- 深信服，sangfor，<img src="./logo/s/sangfor.png" alt="sangfor" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.sangfor.com.cn/about-us/company-profile)[↘](https://en.wikipedia.org/wiki/Sangfor_Technologies)，`260412`
-<!--  -->
-- 吉利，geely，<img src="./logo/g/Geely_Logo_2022.svg" alt="geely" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://zgh.com/overview/)[↘](https://en.wikipedia.org/wiki/Geely)，`260417`
-<!--  -->
-- 招商银行，cmbchina，<img src="./logo/c/China_Merchants_Bank_logo.svg" alt="cmbchina" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://cmbchina.com/cmbinfo/aboutcmb/)[↘](https://en.wikipedia.org/wiki/China_Merchants_Bank)，`260418`
-<!--  -->
-- 招商局，cmhk，<img src="./logo/c/China_Merchants_Group.svg" alt="cmhk" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.cmhk.com/main/gyzsj/jtjj)[↘](https://en.wikipedia.org/wiki/China_Merchants_Group)，`260418`
-- 华润燃气，crcgas，<img src="./logo/c/crcgas.png" alt="crcgas" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.crcgas.com/gsjj/index.html)[↘](https://en.wikipedia.org/wiki/China_Resources_Gas)，`260419`
-- 新东方，xdf，<img src="./logo/x/xdf.svg" alt="xdf" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.neworiental.org/)[↘](https://en.wikipedia.org/wiki/New_Oriental)，[logo备份↗](./logo/n/New_Oriental.svg)，`260419`
-- 亚信，asiainfo，<img src="./logo/a/asiainfo-logo.svg" alt="asiainfo" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.asiainfo.com/zh_cn/about.html)[no_wiki↘]，`260419`
 - 格力，gree，<img src="./logo/g/Gree_electric_appliances_logo.svg" alt="gree" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://gree.com/single/32)[↘](https://en.wikipedia.org/wiki/Gree_Electric)，`260421`
 - 国家电网，sgcc，<img src="./logo/s/State_Grid_Corporation_of_China_logo.svg" alt="sgcc" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](http://www.sgcc.com.cn/html/sgcc_main/gb/gywm/gsjs/index.shtml)[↘](https://en.wikipedia.org/wiki/State_Grid_Corporation_of_China)，`260430`
+- 华润燃气，crcgas，<img src="./logo/c/crcgas.png" alt="crcgas" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.crcgas.com/gsjj/index.html)[↘](https://en.wikipedia.org/wiki/China_Resources_Gas)，`260419`
+- 吉利，geely，<img src="./logo/g/Geely_Logo_2022.svg" alt="geely" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://zgh.com/overview/)[↘](https://en.wikipedia.org/wiki/Geely)，`260417`
+- 科大讯飞，iflytek，<img src="./logo/i/IFlytek_logo.png" alt="iflytek" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.iflytek.com/about.html)[↘](https://en.wikipedia.org/wiki/IFlytek)，`260411`
+- 拼多多，pdd，<img src="./icp/Pinduoduo_logo.svg" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.pinduoduo.com/home/about/)[↘](https://en.wikipedia.org/wiki/Pinduoduo)；<img src="./icp/pddhr.png" alt="bilibili" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，`260410`
+- 深信服，sangfor，<img src="./logo/s/sangfor.png" alt="sangfor" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.sangfor.com.cn/about-us/company-profile)[↘](https://en.wikipedia.org/wiki/Sangfor_Technologies)，`260412`
+- 新东方，xdf，<img src="./logo/x/xdf.svg" alt="xdf" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.neworiental.org/)[↘](https://en.wikipedia.org/wiki/New_Oriental)，[logo备份↗](./logo/n/New_Oriental.svg)，`260419`
+- 亚信，asiainfo，<img src="./logo/a/asiainfo-logo.svg" alt="asiainfo" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.asiainfo.com/zh_cn/about.html)[no_wiki↘]，`260419`
+- 招商局，cmhk，<img src="./logo/c/China_Merchants_Group.svg" alt="cmhk" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://www.cmhk.com/main/gyzsj/jtjj)[↘](https://en.wikipedia.org/wiki/China_Merchants_Group)，`260418`
+- 招商银行，cmbchina，<img src="./logo/c/China_Merchants_Bank_logo.svg" alt="cmbchina" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[↗](https://cmbchina.com/cmbinfo/aboutcmb/)[↘](https://en.wikipedia.org/wiki/China_Merchants_Bank)，`260418`
+- 中国电信，chinatelecom，<img src="./logo/c/China_Telecom_Logo.svg" alt="sgcc" style="max-height: 1.5rem; width: auto; height: auto; max-width: 100%;">，[about↗](https://www.chinatelecom.com.cn/ct/aboutcorp/jtgk/)，[wiki↗](https://en.wikipedia.org/wiki/China_Telecommunications_Corporation)，`260501`
+
 
 <!--  -->
 <span style="font-size:12px; color:#999">THE END</span>
